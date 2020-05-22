@@ -9,6 +9,6 @@ Summary: What does your post talk about? Write here.
 
 This is the *first post* from my Pelican blog. **YAY!**
 
-![Write here a good description for people who can't see the image]({filename}/images/HP.jpg)
+![Write here a good description for people who can't see the image]({static}/images/HP.jpg)
 
 NC Hải Phương's Album.jpg
